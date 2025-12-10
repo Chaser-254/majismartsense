@@ -128,7 +128,7 @@ export function Footer() {
           <p>© 2025 Maji Smartense. All rights reserved.</p>
           <div className="flex items-center gap-2">
             <span>Powered by</span>
-            <span className="text-cyan-500 font-semibold">Maji AI Engine</span>
+            <span className="text-cyan-500 font-semibold">EziTechLabs</span>
           </div>
         </div>
       </div>
