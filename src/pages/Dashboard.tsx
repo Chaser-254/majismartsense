@@ -29,7 +29,6 @@ export function Dashboard() {
       <Header onViewAllNotifications={handleViewAllNotifications} />
 
       <main className="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 py-8 space-y-8">
-        {/* Welcome Section */}
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
           <div>
             <h2 className="text-2xl font-bold text-slate-800 dark:text-slate-100">
